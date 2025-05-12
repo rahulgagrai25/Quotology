@@ -6,9 +6,9 @@
 **Quotology** is a minimal, elegant mobile application designed to inspire users daily with motivational and thought-provoking quotes. Whether you're seeking inspiration, positivity, or a moment of reflection, Quotology delivers meaningful content in a clean, beautifully designed interface.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/859b22c9-8140-476d-848c-c31cd1864d47" width="300" alt="Quotology Mockup" style="margin: 0 10px;"/>
-  <img src="https://github.com/user-attachments/assets/879341d2-52fa-4d9b-b31b-a546cd46ba57" width="300" style="margin: 0 10px;"/>
-  <img src="https://github.com/user-attachments/assets/1b86ccb1-28f4-4f57-bbe7-194b8eda7da8" width="300" style="margin: 0 10px;"/>
+  <img src="https://github.com/user-attachments/assets/859b22c9-8140-476d-848c-c31cd1864d47" width="300" alt="Quotology Mockup"/>
+  <img src="https://github.com/user-attachments/assets/879341d2-52fa-4d9b-b31b-a546cd46ba57" width="300" />
+  <img src="https://github.com/user-attachments/assets/1b86ccb1-28f4-4f57-bbe7-194b8eda7da8" width="300" />
 </p>
 
 ---
